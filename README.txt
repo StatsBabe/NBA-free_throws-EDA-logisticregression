@@ -45,7 +45,7 @@ PREDICTION MODEL
    
 Regrettably, this model was about as accurate as throwing a coin ie 50%
 This is initially disappointing but understandable. The model is not sophisticated enough for such complexity.
-Matthew Syed in "Bouce, The Myth of Talent and the Power of Practice" (2011, Fourth Estate, London)
+Matthew Syed in "Bounce, The Myth of Talent and the Power of Practice" (2011, Fourth Estate, London)
 comments (p. 48),
 "Most sports are characterized by combinatorial explosion: tennis, table tennis, football, ice hockey and so on.
 ... The complexities are almost to impossible to define, let alone solve."
